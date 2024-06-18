@@ -1,0 +1,6 @@
+C:\Users\lucia\OneDrive\Documents\SharpDevelop Projects\Proyecto Integrador\Proyecto Integrador\bin\Debug\Proyecto Integrador.exe.config
+C:\Users\lucia\OneDrive\Documents\SharpDevelop Projects\Proyecto Integrador\Proyecto Integrador\bin\Debug\Proyecto Integrador.exe
+C:\Users\lucia\OneDrive\Documents\SharpDevelop Projects\Proyecto Integrador\Proyecto Integrador\bin\Debug\Proyecto Integrador.pdb
+C:\Users\lucia\OneDrive\Documents\SharpDevelop Projects\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto Integrador.csprojResolveAssemblyReference.cache
+C:\Users\lucia\OneDrive\Documents\SharpDevelop Projects\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto Integrador.exe
+C:\Users\lucia\OneDrive\Documents\SharpDevelop Projects\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto Integrador.pdb
